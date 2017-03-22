@@ -4,7 +4,6 @@ import filecmp
 import os
 import sys
 from time import gmtime, strftime
-from datetime import date
 
 os.environ['HOME']
 
